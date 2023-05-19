@@ -1,0 +1,21 @@
+﻿  Staga2_Battle.cpp
+c:\users\chan5\desktop\0151\teamproject\staga2_battle.cpp(215): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\chan5\desktop\0151\teamproject\staga2_battle.cpp(217): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\chan5\desktop\0151\teamproject\staga2_battle.cpp(219): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\chan5\desktop\0151\teamproject\staga2_battle.cpp(221): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Stage5_Battle.cpp
+c:\users\chan5\desktop\0151\teamproject\stage5_battle.cpp(215): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\chan5\desktop\0151\teamproject\stage5_battle.cpp(217): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\chan5\desktop\0151\teamproject\stage5_battle.cpp(219): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\chan5\desktop\0151\teamproject\stage5_battle.cpp(221): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Stage6_Battle.cpp
+c:\users\chan5\desktop\0151\teamproject\stage6_battle.cpp(215): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\chan5\desktop\0151\teamproject\stage6_battle.cpp(217): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\chan5\desktop\0151\teamproject\stage6_battle.cpp(219): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\chan5\desktop\0151\teamproject\stage6_battle.cpp(221): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  3 of 796 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  TeamProject.vcxproj -> C:\Users\chan5\Desktop\0151\Release\TeamProject.exe

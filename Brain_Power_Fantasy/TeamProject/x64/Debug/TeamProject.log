@@ -1,0 +1,23 @@
+﻿  FakeBoss.cpp
+c:\users\koowater\desktop\teampr~3\teamproject\fakeboss.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  Final.cpp
+c:\users\koowater\desktop\teampr~3\teamproject\final.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  Input.cpp
+c:\users\koowater\desktop\teampr~3\teamproject\input.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  Question.cpp
+c:\users\koowater\desktop\teampr~3\teamproject\question.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  Script.cpp
+c:\users\koowater\desktop\teampr~3\teamproject\script.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  Stage1.cpp
+c:\users\koowater\desktop\teampr~3\teamproject\stage1.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  GameOver.cpp
+c:\users\koowater\desktop\teampr~3\teamproject\gamephase.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  main.cpp
+c:\users\koowater\desktop\teampr~3\teamproject\main.cpp(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  Intro1.cpp
+c:\users\koowater\desktop\teampr~3\teamproject\gamephase.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  TextureManager.cpp
+c:\users\koowater\desktop\teampr~3\teamproject\texturemanager.h(3): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  Win1.cpp
+c:\users\koowater\desktop\teampr~3\teamproject\gamephase.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'SDL.h': No such file or directory
+  코드를 생성하고 있습니다...
