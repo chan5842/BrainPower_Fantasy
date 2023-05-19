@@ -1,5 +1,6 @@
-![Title](https://github.com/chan5842/BrainPower_Fantasy/assets/57973725/37a55a71-486d-4164-aca7-0dc365de1f35)
 # BrainPower_Fantasy
+![Title](https://github.com/chan5842/BrainPower_Fantasy/assets/57973725/37a55a71-486d-4164-aca7-0dc365de1f35)
+
 2019년 게임프로그래밍 강의 팀프로젝트
 
 # 제작 기간
