@@ -12,13 +12,16 @@
 - 숫자 키 : 정답 입력 키
 
 # 게임 방법
+1. 문제 제시 UI
 ![tutorial1](https://github.com/chan5842/BrainPower_Fantasy/assets/57973725/0734e7bb-df07-433a-bfa6-6e6c2c885cbf)
-- 문제 제시 UI
+2. 제한 시간
 ![tutorial2](https://github.com/chan5842/BrainPower_Fantasy/assets/57973725/b83c0674-3673-40e1-8625-09ebbffbf509)
 - 스테이지 제한시간 : 1분, 문제 당 제한시간 : 10초
+3. 정답 제출
 ![tutorial3](https://github.com/chan5842/BrainPower_Fantasy/assets/57973725/4af386c6-cdac-41c8-9e94-af99dd617e09)
 - 답 제출 UI
 - 숫자 키로 정답을 입력 후 Enter키로 제출
+4. 게임 종료
 ![tutorial4](https://github.com/chan5842/BrainPower_Fantasy/assets/57973725/55f3ce3f-eb14-4a67-a95e-72ca54bc378e)
 - 플레이어의 게이지가 0이 되면 게임 오버
 - CPU의 게이지가 0이 되면 스테이지 클리어
